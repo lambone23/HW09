@@ -1,5 +1,6 @@
 # HW09
 # ⚾ Chat Baseball Game (Unreal Engine 5 C++)
+<img width="1560" height="933" alt="2025-09-02 144730" src="https://github.com/user-attachments/assets/4d497001-3a9d-4c3c-a233-9e273565bbc2" />
 
 > **Chat Baseball Game**은 **언리얼 엔진 5 C++** 기반의 멀티플레이어 숫자 야구 게임입니다.  
 > 플레이어는 채팅창을 통해 **3자리 숫자**를 추측하며, 먼저 정답을 맞힌 플레이어가 승리합니다.  
